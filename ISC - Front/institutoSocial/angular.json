@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "institutoSocial"
+  "defaultProject": "institutoSocial",
+  "cli": {
+    "analytics": "8a979080-0f8f-49a3-b201-9cd48f81c911"
+  }
 }
