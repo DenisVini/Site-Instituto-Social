@@ -1,0 +1,10 @@
+.font-size {
+    font-size: 12pt;
+}
+
+nav {
+    width: 100vw;
+    position: fixed;
+    top:0;
+    z-index: 9999;
+}
